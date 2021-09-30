@@ -1,6 +1,6 @@
 # PONG Game
 
-The game can be played by a single player.
+The game can be played by a single player only.
 
 It will keep track of your score and the speed of the ball will increase as the game progresses.
 
